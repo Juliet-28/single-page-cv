@@ -2,8 +2,11 @@
 
 Juliet S. Toe’s CV created using only HTML.
 
-✅ **Project Page URL**  
+---
+
+**Project Page URL:**  
 https://juliet-28.github.io/single-page-cv/
+
 
 
 
